@@ -3,7 +3,7 @@
 # 项目说明：本项目无开源许可证，禁止二次分发，仅作「学习＆存档」使用。
 # 作者名称：HAI
 #************************************************************************#
-# 更新时间：2025-11-28 当日版本：01
+# 更新时间：2025-11-28 当日版本：02
 #************************************************************************#
 #白名单列表20251128#
 @@||spider-tracker.xiaohongshu.com^$important
@@ -110,6 +110,7 @@
 @@||sax.sina.com.cn^
 @@||click.simba.taobao.com^
 @@||app-advertise.zhihuishu.com^
+@@||cn.bing.com^$important
 ##@@||hm.baidu.com^$important
 #结束#
 #************************************************************************#
@@ -1008,6 +1009,9 @@
 ||smka.cc^$important
 ||wecmh.xinbaobeiwl.com.w.cdngslb.com^$important
 ||wecmh.xinbaobeiwl.com^$important
+||fgc.zv3om2.cyou^$important
+||lryukuhqyr4.com^$important
+||q3.xhsyf4kp.cc^$important
 #---------------------------------------#
 
 ##通杀不良网站##
