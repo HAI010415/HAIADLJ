@@ -3,6 +3,7 @@
 # 项目说明：本项目无开源许可证，禁止二次分发，仅作「学习＆存档」使用。
 # 作者名称：HAI
 # 更新时间：2025-12-10 当日版本：01
+##最新规则https://raw.githubusercontent.com/HAI010415/HAIADLJ/refs/heads/main/gandiaohs.txt
 #************************************************************************#
 #白名单列表20251210更新#
 @@||spider-tracker.xiaohongshu.com^$important
