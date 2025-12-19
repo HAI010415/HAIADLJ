@@ -1,9 +1,10 @@
 #************************************************************************#
-# 项目内容：借鉴规则+自抓规则（致力于精简、干掉xx网站）
+# 项目内容：借鉴规则+自抓规则
 # 项目说明：本项目无开源许可证，禁止二次分发，仅作「学习＆存档」使用。
+# 调整后精简多了，很好的针对不良网站以及基础的广告。
+# 订阅链接：https://raw.githubusercontent.com/HAI010415/HAIADLJ/refs/heads/main/gandiaohs.txt
 # 作者名称：HAI
-# 更新时间：2025-12-18 当日版本：01
-##此为后续更新：https://raw.githubusercontent.com/HAI010415/HAIADLJ/refs/heads/main/gandiaohs.txt
+# 更新时间：2025-12-19 当日版本：01
 #************************************************************************#
 #白名单列表#
 @@||spider-tracker.xiaohongshu.com^$important
@@ -17,28 +18,6 @@
 @@||www.doubao.com^$important
 @@||store.is.autonavi.com^$important
 @@||settings-win.data.microsoft.com^$important
-##中国移动
-@@||qwhdcdn.cmcc-cs.cn^
-#中国电信app
-@@||appgoad.189.cn^
-@@||xbk.189.cn^
-#天翼账号本机号码免注册一键登录
-@@||id6.me^
-#交管12123
-@@||static.122.gov.cn^
-@@||down.anticheatexpert.com^
-#[微信]
-# 公众号视频加载失败
-@@||h5vv6.video.qq.com^
-# 微信红包
-@@||as.weixin.qq.com^
-##微信支付
-@@||paydns.wechatpay.cn^
-@@||pay.weixin.qq.com^
-@@||wx.tenpay.com^
-@@||wxpay.qpic.cn^
-@@||gtimg.wechatpay.cn^
-@@||payapp.weixin.qq.com^
 #抖音App
 #拦截后登录提示「系统繁忙」
 @@||log.snssdk.com^
@@ -50,10 +29,6 @@
 @@||p3-catpcha.byteimg.com^
 @@||p6-catpcha.byteimg.com^
 @@||p9-catpcha.byteimg.com^
-#饿了么小程序
-@@||waimai-guide.ele.me^
-##避免误拦截百度搜索核心服务
-@@||*.baidu.com^$domain=baidu.com
 ##豆包附件上传
 @@||tos-d-x-lf.douyin.com^$important
 @@||pc-mon.zijieapi.com^$important
@@ -93,8 +68,6 @@
 #*******************************************************************************************************#
 
 #黑名单列表#
-#*******************************************************************************************************#
-
 #秋风拦截摘取AWAvenue Ads Rule
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -286,25 +259,7 @@
 ||coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
 #*******************************************************************************************************#
 
-#————SM广告丟那吗hosts————
-#更新日期：251201
-#主页：https://github.com/2Gardon/SM-Ad-FuckU-hosts/blob/master/SMAdHosts
-#订阅：https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/refs/heads/master/SMAdHosts
-#TopOn广告(酷安用，不然信息流漏广告)
-0.0.0.0 app.takuad.com
-0.0.0.0 img.toponad.com
-0.0.0.0 mores.toponad.com
-0.0.0.0 app.toponad.com
-0.0.0.0 aa.toponad.com
-0.0.0.0 pkgcn.toponad.com
-0.0.0.0 pkg.toponad.com
-0.0.0.0 openapi.toponad.com
-0.0.0.0 www.toponad.com
-0.0.0.0 tt.toponad.com
-0.0.0.0 dd.toponad.com
-#*******************************************************************************************************#
-
-#不良网页拦截20251210更新#
+#不良网页拦截#
 #更新↓20251123
 ||j7er.avdog-t0021.vip^$important
 ||2215gc.w495v7.com^$important
@@ -892,3 +847,26 @@
 ||b2sbkbvx.cache-hlg.11cdn.cc^$important
 ||5.pp236a.cc^$important
 ||6.pp247a.cc^$important
+||qmoj.avtaohua-t2032.cc^$important
+||carrot3.xn--sqr29ix5h7p6c.com^$important
+||carrot3.xn--sqr29ix5h7p6c.com.w.kunlunaq.com^$important
+||lu5i.xn--sqrw4xgjgpt4c.com.w.kunlunaq.com^$important
+||lu5i.xn--sqrw4xgjgpt4c.com^$important
+||lu5r.xn--sqrw4xgjgpt4c.com.w.kunlunaq.com^$important
+||lu5r.xn--sqrw4xgjgpt4c.com^$important
+||papaya2.xn--mkro7shl9c.com^$important
+||5luapi.wqidm.com.a1.initac.com^$important
+||banana1.xn--mkro7shl9c.com^$important
+||lu5h5.gjnujiem.xyz^$important
+||ac2hc296.vip^$important
+||ltp.mftg354.vip^$important
+||ccse.njnnhl.com^$important
+||ccse.njnnhl.com.a1.initxa.com^$important
+||qazx200.wtnwtsx.cn^$important
+||awnhbnrjvy7.com^$important
+||monkey.cszpra.com.gccdn.net^$important
+||6.pp389a.cc^$important
+||hqwxe702.com^$important
+||007825.com^$important
+||bw102.daiygwh.cn^$important
+||bw102.nvrwxfk.com^$important
