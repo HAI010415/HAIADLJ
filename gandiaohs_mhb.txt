@@ -7,7 +7,7 @@
 # 订阅链接：
 #************************************************************************#
 # 其它版本：《自用版》《基础版》
-# 自用版：
+# 自用版：https://raw.githubusercontent.com/HAI010415/HAIADLJ/refs/heads/main/gandiaohs_zyb.txt
 # 基础版：
 #************************************************************************#
 #白名单列表#
@@ -11704,4 +11704,5 @@
 ||y.ysgca.cc^$important
 ||htystv.org^$important
 ||ttxnii.flsp8.boats^$important
+
 
