@@ -4,11 +4,11 @@
 # 作者名称：HAI
 # 更新时间：2025-12-29
 # 此版本信息：《魔化版》：强化版本，很好的针对不良网站以及基础的app广告，同时误杀概率加大。
-# 订阅链接：
+# 订阅链接：https://raw.githubusercontent.com/HAI010415/HAIADLJ/refs/heads/main/gandiaohs_mhb.txt
 #************************************************************************#
 # 其它版本：《自用版》《基础版》
 # 自用版：https://raw.githubusercontent.com/HAI010415/HAIADLJ/refs/heads/main/gandiaohs_zyb.txt
-# 基础版：
+# 基础版：https://raw.githubusercontent.com/HAI010415/HAIADLJ/refs/heads/main/gandiaohs.txt
 #************************************************************************#
 #白名单列表#
 @@||spider-tracker.xiaohongshu.com^$important
@@ -11704,5 +11704,6 @@
 ||y.ysgca.cc^$important
 ||htystv.org^$important
 ||ttxnii.flsp8.boats^$important
+
 
 
