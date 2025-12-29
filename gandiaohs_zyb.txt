@@ -3,12 +3,12 @@
 # 项目说明：本项目无开源许可证，禁止二次分发，仅作「学习＆存档」使用。
 # 作者名称：HAI
 # 更新时间：2025-12-29
-# 此版本信息：《自用版》：作者自用版本
-# 订阅链接：
+# 此版本信息：《自用版》：作者自用版本，满足作者个人使用风格
+# 订阅链接：https://raw.githubusercontent.com/HAI010415/HAIADLJ/refs/heads/main/gandiaohs_zyb.txt
 #************************************************************************#
 # 其它版本：《基础版》《魔化版》
-# 基础版：
-# 魔化版：
+# 基础版：https://raw.githubusercontent.com/HAI010415/HAIADLJ/refs/heads/main/gandiaohs.txt
+# 魔化版：https://raw.githubusercontent.com/HAI010415/HAIADLJ/refs/heads/main/gandiaohs_mhb.txt
 #************************************************************************#
 #白名单列表#
 @@||spider-tracker.xiaohongshu.com^$important
@@ -9876,3 +9876,4 @@
 ||y.ysgca.cc^$important
 ||htystv.org^$important
 ||ttxnii.flsp8.boats^$important
+
