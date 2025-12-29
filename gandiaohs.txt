@@ -7,8 +7,8 @@
 # 此版本订阅链接：https://raw.githubusercontent.com/HAI010415/HAIADLJ/refs/heads/main/gandiaohs.txt
 #************************************************************************#
 # 其它版本：《自用版》《魔化版》
-# 自用版：
-# 魔化版：
+# 自用版：https://raw.githubusercontent.com/HAI010415/HAIADLJ/refs/heads/main/gandiaohs_zyb.txt
+# 魔化版：https://raw.githubusercontent.com/HAI010415/HAIADLJ/refs/heads/main/gandiaohs_mhb.txt
 #************************************************************************#
 #白名单列表#
 @@||spider-tracker.xiaohongshu.com^$important
