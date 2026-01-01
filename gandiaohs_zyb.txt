@@ -260,8 +260,6 @@
 
 #不良网页拦截#
 #借鉴内容拦截--测试20251219
-||csdnimg.cn^$important
-||csdn.net^$important
 ||icode.best^$important
 ||chuzhounews.com^$important
 ||ddkktxy.xyz^$important
@@ -9885,4 +9883,5 @@
 ||bdzp3hu3.sched.vodtylego.tdnsvod1.cn^$important
 ||tue30.ainb12301zh.com^$important
 ||avtaohua.phragmspecificie.com^$important
+
 
