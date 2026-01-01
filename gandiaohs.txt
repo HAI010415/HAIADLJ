@@ -306,7 +306,6 @@
 ||lesamisdusahara.com^$important
 ||lmtwh.com^$important
 ||iaskav.com^$important
-||doyouknow.wiki^$important
 ||shortfilmbureau.com^$important
 ||zditect.com^$important
 ||oudebaosw.com^$important
@@ -3251,11 +3250,7 @@
 ||hgo8.top^$important
 ||iedo.xyz^$important
 ||nameestube.com^$important
-||cloud.tencent.com/developer/article^$important
-||blog.51cto.com/u_*
-||blog.51cto.com/topic^$important
 ||decografic.cl^$important
-||51cto.com/article^$important
 ||nongzhibaike.com^$important
 ||28pe.com^$important
 ||lianai3.com^$important
@@ -3293,7 +3288,6 @@
 ||w5pl.online^$important
 ||wio7.site^$important
 ||r9tfx3.rocks^$important
-||developer.aliyun.com/article^$important
 ||apananews.com^$important
 ||shopnoagro.com^$important
 ||delhiservicecenter.com^$important
@@ -4085,7 +4079,6 @@
 ||kandaoni.com^$important
 ||yonghe2008.com^$important
 ||xuunn.com^$important
-||51cto.com^$important
 ||acgns.xyz^$important
 ||acgpu.com^$important
 ||aisyxw.com^$important
@@ -4097,15 +4090,11 @@
 ||wcxacg.com^$important
 ||300.cn^$important
 ||wkzy.net^$important
-||admin5.com^$important
-||itxueyuan.com^$important
 ||zhangaiwu.com^$important
 ||uc23.net^$important
 ||xkjs.org^$important
-||iteye.com^$important
 ||waptv.sogou.com^$important
 ||juankong.com^$important
-||oschina.net^$important
 ||49.235.250.38^$important
 ||yunqicn.com^$important
 ||1024sky.cn^$important
@@ -4397,7 +4386,6 @@
 ||guofk.com^$important
 ||52miji.com^$important
 ||shuaijiao.com^$important
-||linuxidc.com^$important
 ||downcc.com^$important
 ||66xz.com^$important
 ||djn25.com^$important
@@ -4410,7 +4398,6 @@
 ||wowfan.net^$important
 ||yx007.com^$important
 ||52codes.net^$important
-||tvmao.com^$important
 ||ylmfwin8.com^$important
 ||luyouji.cc^$important
 ||baibom.com^$important
@@ -4427,7 +4414,6 @@
 ||upandashi.com^$important
 ||51pgzs.com^$important
 ||xpxtxz.com^$important
-||18183.com^$important
 ||greenxiazai.com^$important
 ||lifek.com^$important
 ||zhlizi.com^$important
@@ -4641,15 +4627,6 @@
 ||shoujimi.com^$important
 ||aosyx.com^$important
 ||saqn.net^$important
-||z-lib.id^$important
-||z-lib.io^$important
-||zlibrary.to^$important
-||zlibrary.st^$important
-||z-lib.is^$important
-||zlib.is^$important
-||zlib.to^$important
-||zlibrary.is^$important
-||z-lib.to^$important
 ||acgnxm.xyz^$important
 ||lianaiyx.com^$important
 ||yttxcs.com^$important
@@ -4788,8 +4765,6 @@
 ||zy0870.com^$important
 ||tomssir.com^$important
 ||0101shop.com^$important
-||bk.taobao.com^$important
-||dancihu.com^$important
 ||asmrqz.com^$important
 ||asmrgc.com^$important
 ||coseryes.com^$important
@@ -4806,14 +4781,12 @@
 ||mys2023.com^$important
 ||rewuba.org^$important
 ||rwzyz.com^$important
-||worktile.com/kb/ask^$important
 ||66.11.117.235^$important
 ||asmrtribe.com^$important
 ||g11.baidu.com^$important
 ||tsubasa.im^$important
 ||youxiniao.com^$important
 ||666root.com^$important
-||gwb.tencent.com/community/detail^$important
 ||itspjc.com^$important
 ||cx1314.cn^$important
 ||alipanba.com^$important
@@ -4821,7 +4794,6 @@
 ||itxbzxw.com^$important
 ||cainzy.com^$important
 ||rh86.com^$important
-||aliyunpanba.com^$important
 ||itdjs.com^$important
 ||vipc6.com^$important
 ||92ydl.com^$important
@@ -4830,7 +4802,6 @@
 ||51shequ.cn^$important
 ||1024zyz.com^$important
 ||aliyue.net^$important
-||ctyun.cn/developer/article^$important
 ||hichenke.com^$important
 ||too-h.com^$important
 ||laoliusp.com^$important
@@ -4842,17 +4813,14 @@
 ||xiurenzhan.com^$important
 ||hejiquan.cc^$important
 ||huiqiaotang.com^$important
-||1905.com^$important
 ||gao7.com^$important
 ||oryoy.com^$important
 ||veerawines.com^$important
-||gushiwen.cn^$important
 ||zuyu123.cn^$important
 ||216.180.232.93^$important
 ||oryoy.com^$important
 ||gm44.cn^$important
 ||jiligamefun.com^$important
-||m.baidu.com/vsearch^$important
 ||kidsdown.com^$important
 ||tvgame.taobao.com^$important
 ||flyy.cn^$important
@@ -4916,7 +4884,7 @@
 ||senluocaituanvip.com^$important
 ||igacg.com^$important
 ||xyouacg.com^$important
-#-----------------------------------------------------------#
+#-------------------------------------------------------------------------------#
 [Adblock Plus 2.0]
 ! Title: 轻量广告拦截规则
 ! Homepage: https://github.com/damengzhu/banad
