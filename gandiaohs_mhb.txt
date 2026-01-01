@@ -1237,7 +1237,7 @@
 !去除评论区下某广告
 ||coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
 #*******************************************************************************************************#
-# 文件名称：茯苓拦截列表「FuLingBlockList」
+# 借鉴茯苓拦截列表「FuLingBlockList」
 # 项目主页：https://github.com/Kuroba-Sayuki/FuLing-AdRules
 # 作者主页：https://github.com/Kuroba-Sayuki
 # 更新时间：2025-09-02
@@ -2088,8 +2088,6 @@
 
 #不良网页拦截#
 #借鉴内容拦截--测试20251219
-||csdnimg.cn^$important
-||csdn.net^$important
 ||icode.best^$important
 ||chuzhounews.com^$important
 ||ddkktxy.xyz^$important
@@ -11704,6 +11702,7 @@
 ||y.ysgca.cc^$important
 ||htystv.org^$important
 ||ttxnii.flsp8.boats^$important
+
 
 
 
