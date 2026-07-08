@@ -124,6 +124,18 @@
 !去除评论区下某广告
 ||coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
 #*******************************************************************************************************#
+#七猫免费小说
+||cdn-new-ad.wtzw.com^
+||a-remad.qm989.com^
+||open.kuaishouzt.com^
+#笔趣阁网页广告
+||hlryzsqo.icu^
+||scenery.hk^
+||xiedao.hk^
+||bcnsport.us^
+||ncbtsdea.xyz^
+||vjyaghdw.icu^
+#*******************************************************************************************************#
 
 #常见拦截
 ||nj.t.bcsp2p.baidu.com^
